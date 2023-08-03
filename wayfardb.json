@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "email": "admin@abc.com",
+      "password": "admin",
+      "name": "Jerry",
+      "gender": "M",
+      "phone": "1234567890"
+    },
+    {
+      "id": "John",
+      "email": "john@abc.com",
+      "password": "abc",
+      "name": "Jerry",
+      "gender": "M",
+      "phone": "1234567890"
+    },
+    {
+      "id": "Alex",
+      "email": "alex@abc.com",
+      "password": "xyz@456",
+      "name": "Jerry",
+      "gender": "M",
+      "phone": "1234567891"
+    },
+    {
+      "id": "Harry",
+      "email": "harry@gmail.com",
+      "password": "harry",
+      "name": "Jerry",
+      "gender": "M",
+      "phone": "1234567490"
+    },
+    {
+      "id": "Jerry",
+      "email": "Jerry@swift.com",
+      "name": "Jerry",
+      "password": "RRY4%yuo9",
+      "gender": "M",
+      "phone": "1234567890"
+    },
+    {
+      "id": "shubhamtayade007@gmail.com",
+      "email": "shubhamtayade007@gmail.com",
+      "password": "Chachi@420",
+      "name": "Shubham Tayade",
+      "gender": "M",
+      "phone": "+91-8888404081"
+    }
+  ]
+}
